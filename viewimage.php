@@ -4,7 +4,7 @@ require_once 'header.php';
 ?>
 <html>
 <body>
-<div><a href="/php-10/index.php"><< Atgal</a></div>
+<div><a href="/projektas/index.php"><< Atgal</a></div>
 
 
 </body>
